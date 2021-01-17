@@ -1,2 +1,0 @@
-C:\Users\Mehmet Dilaveroglu\Desktop\GameProjects\RockBottom\RockBottom\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\Mehmet Dilaveroglu\Desktop\GameProjects\RockBottom\RockBottom\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
