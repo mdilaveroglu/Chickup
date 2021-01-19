@@ -43,7 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 947e04e19c0def046bf2354ff383afc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 3791597833273297933, guid: 7656daccb182ed94886ec3a26c9d5b98, type: 3}
+  player: {fileID: 891119403251507734, guid: 7656daccb182ed94886ec3a26c9d5b98, type: 3}
   levelStart: {fileID: 7020231658566380345, guid: f78d8e02acc072b499cf14e4b94257b7,
     type: 3}
-  levelEnd: {fileID: 411247791751263691, guid: 0cc1cdb8e0dd52e4aa860d1463c5085f, type: 3}
+  levelEnd: {fileID: 4363992650788285587, guid: 0cc1cdb8e0dd52e4aa860d1463c5085f,
+    type: 3}
